@@ -4,7 +4,7 @@ This project evaluates a range of supervised learning algorithms to train a mode
 Using census data, these models identify residents that are likely to earn more than $50,000 per year, enabling the charity to optimise the investment associated with requesting these donations by targeting the people who are most likely to donate. The census data fields that have the most predictive power are also identified.  
 
 # File Descriptions
-The notebook contains the code required to explore and prepare the census data for modeling.  It also contains the code required to train, evaluate and tune a range of supervised learning algorithms and the examination of the census data feature importance.  
+The notebook contains the code required to explore and prepare the census data for modeling.  It also contains the code required to train, evaluate and tune a range of supervised learning algorithms, and to examine the census data feature importance.  
 
 # Installations
 This notebook was developed using the library versions below:
